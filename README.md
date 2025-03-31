@@ -17,7 +17,7 @@ This project demonstrates how to integrate OAuth2 authentication in a Spring Boo
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/your-username/your-repo.git](https://github.com/manirajyadav-1/OAuth2-SpringBoot.git
+git clone https://github.com/manirajyadav-1/OAuth2-SpringBoot.git
 cd OAuth2-SpringBoot
 ```
 
