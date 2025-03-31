@@ -17,12 +17,12 @@ This project demonstrates how to integrate OAuth2 authentication in a Spring Boo
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/your-username/your-repo.git](https://github.com/manirajyadav-1/OAuth2-SpringBoot.git
+cd OAuth2-SpringBoot
 ```
 
 ### 2. Configure OAuth2 Credentials
-Create an `application.yml` file in `src/main/resources/` and add your OAuth2 credentials:
+Create an `application.properties` file in `src/main/resources/` and add your OAuth2 credentials:
 ```yaml
 spring:
   security:
@@ -43,21 +43,8 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-## Usage
-1. Open `http://localhost:8080/login`
-2. Choose an OAuth2 provider
-3. Authenticate and access secured resources
-
-## API Endpoints
-- `GET /user` - Fetches authenticated user details
-- `GET /logout` - Logs out the user
-
-## License
-This project is licensed under the MIT License.
 
 ## Contributing
 Feel free to submit issues or pull requests.
 
-## Contact
-For questions or feedback, reach out via [your-email@example.com] or open an issue in the repository.
 
